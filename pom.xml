@@ -13,7 +13,8 @@
 	<modules>
 		<module>customer</module>
         <module>fraud</module>
-    </modules>
+		<module>eureka-server</module>
+	</modules>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
